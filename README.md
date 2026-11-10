@@ -32,8 +32,8 @@ Gather host info, enumerate subdomains, brute-force directories, and scan ports 
 ##  Installation
 
 ```bash
-git clone https://github.com/MR-ZIHAD/PhantomRecon.git
-cd PhantomRecon
+git clone https://github.com/MR-ZIHAD/RECON
+cd RECON
 pip install -r requirements.txt
 ```
 
